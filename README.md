@@ -7,6 +7,7 @@ Tasks
 13/13 complete
 Mark the tasks as complete by checking them off
 Turn up the Temperature
+
 1.
 Write a function called f_to_c that takes an input f_temp, a temperature in Fahrenheit, and converts it to c_temp, that temperature in Celsius.
 
